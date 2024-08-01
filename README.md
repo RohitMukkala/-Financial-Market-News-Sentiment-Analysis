@@ -6,7 +6,7 @@ This repository contains a project aimed at analyzing the sentiment of financial
 
 Financial news has a significant influence on market movements. This project uses machine learning and NLP techniques to classify news articles into positive, negative, or neutral sentiment. The analysis can assist traders, investors, and financial analysts in making informed decisions.
 
-##Features
+## Features
 
 Data Collection: Gathering financial news articles from various sources.
 Data Preprocessing: Cleaning and preparing the text data for analysis.
