@@ -45,5 +45,5 @@ The project provides an analysis of the sentiment of financial market news artic
 Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request.
 
 ## Contact
-For any questions or inquiries, please contact Mukkala Rohit via LinkedIn.
+For any questions or inquiries, please contact Mukkala Rohit via LinkedIn: www.linkedin.com/in/mukkala-rohit .
 
